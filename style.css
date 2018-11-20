@@ -1,1 +1,104 @@
+body {
+	background-color: #777;
+	width: 960px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	text-align: center;
+	margin: 0px;
+	margin-left: 90px;
+    padding: 0px;
+    font-size: 18px;
+}
+ul {
+    text-align: left;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+p {
+	font-size: 18px;
+	margin: 0px;
+}
+h1 {
+	font-size: 20px;
+	display: inline;
+}
+h2 {
+	font-size: 20px;
+	display: inline;
+}
+h3 {
+	font-size: 20px;
+	display: inline;
+}
+.profile-pic{
+    width: 200px;
+    height: auto;
+}
+header {
+	background-color: #ebebeb;
+	color: #777;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+nav {
+	background-color: #ebebeb;
+	color: #777;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	margin-bottom: 20px;
+}
+section {
+	background-color: #ebebeb;
+	color: #777;
+	width: 540px;
+	padding-top: 30px;
+	padding-bottom: 20px;
+	float: left;
 
+}
+article {
+	background-color: #777;
+	color: #ebebeb;
+	width: 500px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+.hbox {
+	background-color: #ebebeb;
+	color: #777;
+	width: 450px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-left: 25px;
+	margin-top: 17px;	
+}
+.pbox {
+	background-color: #ebebeb;
+	color: #777;
+	width: 450px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-left: 25px;
+	margin-top: 10px;
+}
+aside {
+	background-color: #ebebeb;
+	color: #777;
+	padding-top: 30px;
+	height: 275px;
+	width: 400px;
+	float: right;
+	margin-bottom: 20px;
+}
+footer {
+	background-color: #ebebeb;
+	color: #777;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	clear: both;
+}
